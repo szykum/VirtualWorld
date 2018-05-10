@@ -1,0 +1,41 @@
+body{
+  background-image: url("../images/bck.jpg");
+  background-attachment: fixed;}
+
+td{
+  border:1px solid;
+  width: 30px;
+  height: 30px;
+  background-color: rgba(0, 104, 6, 0.3);
+}
+
+.controllers a img{
+  position: relative;
+  left: 30%;
+}
+
+.controllers{
+  padding-top: 100px;
+}
+
+.stage{
+  padding-top: 50px;
+}
+
+.dailyLog{
+  margin-top: 50px;
+  color: #0b0033;
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 100px;
+}
+
+.mainContent{
+  margin-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgba(81, 81, 81, 0.5);
+}
+
+.ctrlButtons{
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.3);
+}
